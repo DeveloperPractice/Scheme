@@ -15,7 +15,7 @@
 
 @implementation AppDelegate
 //It's an important thing
-
+//need to check this too
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
     return YES;
