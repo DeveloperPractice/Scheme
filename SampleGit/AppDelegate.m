@@ -13,7 +13,7 @@
 @end
 
 @implementation AppDelegate
-
+//It's an important thing
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
