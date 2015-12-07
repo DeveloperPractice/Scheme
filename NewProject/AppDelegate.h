@@ -1,10 +1,10 @@
 //
 //  AppDelegate.h
-//  SampleGit
+//  NewProject
 //
-//  Created by SivajeeBattina on 12/3/15.
+//  Created by SivajeeBattina on 8/20/15.
 //  Copyright © 2015 Paradigmcreatives. All rights reserved.
-// Yes I think it's working 
+//
 
 #import <UIKit/UIKit.h>
 
