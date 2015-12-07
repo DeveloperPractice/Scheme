@@ -7,9 +7,12 @@
 //
 
 #import "AppDelegate.h"
+<<<<<<< HEAD
 //Yes Import it
 // I think it's working perfect
 =======
+=======
+>>>>>>> parent of beb996c... Sixth COmmit
 
 @interface AppDelegate ()
 
