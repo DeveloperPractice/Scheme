@@ -1,8 +1,8 @@
 //
 //  ViewController.m
-//  SampleGit
+//  AnotherTarget
 //
-//  Created by SivajeeBattina on 12/3/15.
+//  Created by SivajeeBattina on 8/20/15.
 //  Copyright © 2015 Paradigmcreatives. All rights reserved.
 //
 
@@ -16,6 +16,8 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    
+     NSLog(@"Loading Different different 2");
     // Do any additional setup after loading the view, typically from a nib.
 }
 

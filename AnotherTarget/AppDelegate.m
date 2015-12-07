@@ -1,18 +1,12 @@
 //
 //  AppDelegate.m
-//  SampleGit
+//  AnotherTarget
 //
-//  Created by SivajeeBattina on 12/3/15.
+//  Created by SivajeeBattina on 8/20/15.
 //  Copyright © 2015 Paradigmcreatives. All rights reserved.
-// Yes please add this to last commit
+//
 
 #import "AppDelegate.h"
-<<<<<<< HEAD
-//Yes Import it
-// I think it's working perfect
-=======
-=======
->>>>>>> parent of beb996c... Sixth COmmit
 
 @interface AppDelegate ()
 
